@@ -10,5 +10,7 @@
  RAS
 # Processus de release :  
  RAS  
+# Moyen de test :  
+ Plateforme de test  
  
  
